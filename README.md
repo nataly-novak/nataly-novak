@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @nataly-novak
 - 👀 I’m interested in game development, making bots and visual storytelling
-- 🌱 I’m currently learning web development
-- 💞️ I’m looking to collaborate on anything, honestly. Not really a fan of my current situation.
+- 🌱 My biggest interests is applied use of Python and Godot game development, and I am looking to constantly improve in these areas
+- 💞️ I’m looking to collaborate on anything, honestly.
 - 📫 How to reach me miss.novak137@yandex.com
 
 <!---
